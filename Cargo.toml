@@ -1,0 +1,8 @@
+[package]
+name = "network"
+version = "0.1.0"
+authors = ["bucho <steelwind666@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mio = "0.6"
